@@ -41,4 +41,14 @@ MICCAI_BraTS2020_TrainingData
 ```
 
 
- 
+## Citation
+If you find this code useful in your research, please consider citing:
+'''
+@article{che2025disentangle,
+  title={Disentangle and Then Fuse: A Cross-Modal Network for Synthesizing Gadolinium-Enhanced Brain MR Images},
+  author={Che, Zengyang and Zhang, Zheng and Wu, Yaping and Wang, Meiyun},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2025},
+  publisher={IEEE}
+}
+'''
